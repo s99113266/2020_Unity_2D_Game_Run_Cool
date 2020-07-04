@@ -19034,6 +19034,7 @@ GameObject:
   - component: {fileID: 1698215753}
   - component: {fileID: 1698215757}
   - component: {fileID: 1698215756}
+  - component: {fileID: 1698215758}
   m_Layer: 0
   m_Name: player
   m_TagString: Untagged
@@ -19161,6 +19162,26 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &1698215758
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1698215752}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2026f2844494c743bcd3dbe78d03004, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 0
+  coin: 0
+  height: 0
+  hp: 0
+  dead: 0
+  soundJump: {fileID: 0}
+  soundSlide: {fileID: 0}
+  soundCollision: {fileID: 0}
 --- !u!1001 &1698398957
 PrefabInstance:
   m_ObjectHideFlags: 0

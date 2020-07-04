@@ -377,20 +377,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Image
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Image
+  - Assets/Scripts
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\USER\Desktop\2020_Unity_2D_Game_Run_Cool\2020_Unity_Run_Cool
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: dc3c0000
-    m_LastClickedID: 15580
-    m_ExpandedIDs: 00000000c23c0000c43c0000c63c0000c83c0000ca3c0000cc3c0000ce3c000000ca9a3b
+    m_SelectedIDs: 5a3d0000
+    m_LastClickedID: 15706
+    m_ExpandedIDs: 00000000263d0000283d00002a3d00002c3d00002e3d0000303d0000323d000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -418,7 +418,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000c23c0000c43c0000c63c0000c83c0000ca3c0000cc3c0000ce3c0000
+    m_ExpandedIDs: 00000000263d0000283d00002a3d00002c3d00002e3d0000303d0000323d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -449,18 +449,18 @@ MonoBehaviour:
     m_ExpandedInstanceIDs: c623000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Player
+      m_OriginalName: Player
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 20930
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 11}
     m_CreateAssetUtility:
@@ -535,7 +535,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 1
+    m_EnableMouseInput: 0
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -604,7 +604,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: 640, y: 360, z: 0}
     speed: 2
-    m_Value: {x: 639.99994, y: 359.99994, z: -0.000004478951}
+    m_Value: {x: 640, y: 360, z: 0}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -656,7 +656,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 734.30237
     speed: 2
-    m_Value: 734.3023
+    m_Value: 734.30237
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -709,24 +709,24 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 9}
-      m_SelectedIDs: 1ef6ffff
-      m_LastClickedID: -2530
-      m_ExpandedIDs: 56f4ffff1ef6ffff5efbffff
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 803b0000
+      m_LastClickedID: 15232
+      m_ExpandedIDs: 9cf9ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: "\u91D1\u5E63\u6578\u91CF"
-        m_OriginalName: "\u91D1\u5E63\u6578\u91CF"
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -3512
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 10}
       m_SearchString: 
