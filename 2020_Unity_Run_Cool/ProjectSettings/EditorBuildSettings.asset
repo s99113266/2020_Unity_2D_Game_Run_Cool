@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/RunCoolMenu.unity
     guid: 2b1ab09c834dc304e92c03fc58ce4137
+  - enabled: 1
+    path: Assets/Scenes/RunCoolGame.unity
+    guid: 7d429ab0baf32be4eb5714f427b4846d
   m_configObjects: {}
